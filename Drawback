@@ -1,0 +1,9 @@
+This algorithm has one major drawback:
+
+1) As the number of cities grow, the chances of finding the most optimal path diminishes.
+
+Why does this happen? Because it will take a long time to test all the paths. For example, say we have 40 cities to go to. The amount of possible paths is 40!.
+That's a lot of paths to test. 
+
+I'll try to improve the efficiency of this algorithm at a later stage.
+
